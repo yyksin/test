@@ -12,7 +12,7 @@ import java.util.List;
 import java.util.stream.Collectors;
 
 /**
- * Created by IMC021 on 2017. 7. 26..33333
+ * Created by IMC021 on 2017. 7. 26
  */
 @RestController
 @RequestMapping("/bookings")
